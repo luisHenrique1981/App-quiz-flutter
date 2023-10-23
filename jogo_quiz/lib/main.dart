@@ -1,4 +1,8 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
+//Instituto Federal de Rondônia - IFRO - Campus Calama
+//2° Informática Matutino
+//Trabalho feito em dupla
+//Discentes: Alan Guilherme Oliveira Souza e Luis Henrique Oliveira da Silva
 
 import 'package:flutter/material.dart';
 import 'package:jogo_quiz/telas/resultados.dart';
